@@ -1,4 +1,4 @@
-# Practical Work 1
+# Practical Work 1: Advanced Array Processing in C
 
 This project is a laboratory/practical work for the "Computer Technologies and Programming" course. It contains a C program that processes an array of random integers, identifies groups of consecutive positive numbers, calculates their sum and average, and caps any elements exceeding the average to the integer part of the average.
 
