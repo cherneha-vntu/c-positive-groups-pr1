@@ -5,6 +5,7 @@ This project is a laboratory/practical work for the "Computer Technologies and P
 ## Programs Included
 
 ### 1. Process Positive Groups (`main.c`)
+
 This program dynamically allocates an array of random integers, prints it with positive numbers highlighted in green, and then identifies all groups of consecutive positive numbers. For each group, it calculates the sum and the average value. Any element within a group that is strictly greater than the group's average is replaced by the integer part of the average. Finally, it outputs the modified array.
 
 ## How to Compile and Run
