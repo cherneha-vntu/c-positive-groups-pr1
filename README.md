@@ -11,8 +11,8 @@ This program dynamically allocates an array of random integers, prints it with p
 ## How to Compile and Run
 
 ```bash
-gcc main.c -o practice1
-./practice1
+gcc main.c -o main
+./main
 ```
 
 ## Example Usage
